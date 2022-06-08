@@ -153,4 +153,8 @@ header a:hover {
     .exp-forma {
         width: 90% !important;
     }
+
+    .son audio {
+        width: 250px;
+    }
 }
